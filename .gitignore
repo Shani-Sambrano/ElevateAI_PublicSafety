@@ -1,0 +1,27 @@
+# Ignore VS Code settings
+.vscode/
+.vscode/*
+
+# Ignore node modules (if any)
+node_modules/
+
+# Ignore Windows clutter
+Thumbs.db
+desktop.ini
+
+# Ignore OS + build files
+*.log
+*.tmp
+*.bak
+*.csv
+*.exe
+*.zip
+
+# Ignore AppData and system paths
+AppData/
+AppData/*
+.env
+
+# Don't ignore these:
+!README.md
+!.gitignore
