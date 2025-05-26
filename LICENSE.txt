@@ -1,0 +1,8 @@
+Copyright (c) 2025 Elevate AI Solutions, a division of Marinia Group, Inc.
+
+This project and all associated code, data, and documentation are proprietary and confidential.  
+No part of this software may be reproduced, distributed, or transmitted in any form or by any means,  
+including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright holder.
+
+For commercial inquiries or licensing opportunities, 
+contact: S.Sambrano@MariniaGroup.com
