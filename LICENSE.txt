@@ -1,8 +1,11 @@
-Copyright (c) 2025 Elevate AI Solutions, a division of Marinia Group, Inc.
+This repository and all associated content are provided under a Proprietary License.
 
-This project and all associated code, data, and documentation are proprietary and confidential.  
-No part of this software may be reproduced, distributed, or transmitted in any form or by any means,  
-including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright holder.
+- You MAY NOT** copy, modify, distribute, sublicense, or sell any part of this project.
+- You MAY NOT** use this codebase or its derivative works in commercial, academic, or nonprofit settings without written authorization.
+- You MAY** view the code for personal, non-commercial learning purposes only.
 
-For commercial inquiries or licensing opportunities, 
-contact: S.Sambrano@MariniaGroup.com
+By cloning, accessing, or interacting with this repository, you agree to the above terms.
+
+For licensing discussions, please contact: S.Sambrano@mariniagroup.com
+
+SPDX-License-Identifier: Proprietary
