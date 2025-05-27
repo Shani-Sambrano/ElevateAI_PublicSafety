@@ -1,1 +1,13 @@
+Copyright (c) 2025 Elevate AI Solutions, a DBA of Marinia Group, Inc.  
+All rights reserved.
 
+This software and its associated files, scripts, data, and documentation 
+are the exclusive intellectual property of Elevate AI Solutions. 
+
+Redistribution, modification, reverse engineering, or any form of unauthorized use 
+is strictly prohibited without express written permission from the copyright holder.
+
+Use of this software, in whole or in part, without a valid commercial or research license 
+constitutes a violation of intellectual property laws and will be subject to legal action.
+
+For licensing inquiries, contact: S.Sambrano@MariniaGroup.com
